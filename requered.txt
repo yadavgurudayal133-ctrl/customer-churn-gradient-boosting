@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+matplotlib
+seaborn
+
+Dataset link='https://github.com/YBIFoundation/Dataset/raw/main/TelecomCustomerChurn.csv'
